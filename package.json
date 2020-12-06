@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "DemiTry",
   "version": "1.0.0",
   "description": "bot wa simple",
   "main": "index.js",
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/sniperjitu/demitry"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Vha Much",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/sniperjitu/demitry/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/sniperjitu/demitry/#readme"
 }
