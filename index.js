@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'NAMA BOTMU'; 
-const instagram = 'LINK INSTAGRAMU'; 
-const telegram = 'LINK TELEMU'; 
+const BotName = 'DEMITRY'; 
+const instagram = 'https://www.instagram.com/npcdl/'; 
+const telegram = 'https://t.me/pongo_joe'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'LINK YTMU';
+const youtube = 'No YTB';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
